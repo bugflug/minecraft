@@ -1,0 +1,10 @@
+*
+
+# saves
+saves/*
+!saves/build
+!saves/wireless teleporter
+
+# schematics
+schematics/*
+!schematics/teleporter

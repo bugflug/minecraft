@@ -2,10 +2,8 @@
 !.gitignore
 
 # saves
-saves/*
-!saves/build
+!saves/bugworld
 !saves/wireless teleporter
 
 # schematics
-schematics/*
 !schematics/teleporter
